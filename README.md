@@ -1,4 +1,4 @@
-# PROJECT TITLE 
+# CALIFORNIA HOUSING PREDICTION MODEL
 
 The objective of the project is to be able to predict California house prices using previous house price data. In practice, the dataset is very outdated, having been collected in 1990, so would not provide any relevant predictions in 2023.
 
