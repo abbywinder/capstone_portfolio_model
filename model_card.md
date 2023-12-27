@@ -27,7 +27,7 @@ The model has a RMSE of 0.20 on the test set. The model was trained using 5-fold
 
 ## Limitations
 
-There are only 9 features and the dataset does not take into account common attributes that add or reduce value of a property, including finishes, size of property, energy-efficiency, etc. The model used performs feature engineering naturally on the attributes provided but cannot use feature data it does not have access to. 
+There are only 9 features and the dataset does not take into account common attributes that add or reduce value of a property, including type of property, finishes, size of property, energy-efficiency, etc. The model used performs feature engineering naturally on the attributes provided but cannot use feature data it does not have access to. 
 A household is a group of people residing within a home. Since the average
 number of rooms and bedrooms in this dataset are provided per household, these
 columns may take surprisingly large values for block groups with few households
